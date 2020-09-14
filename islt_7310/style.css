@@ -1,1 +1,24 @@
-h1 {color: #669966;} hex
+h1 {
+    border: 5px solid;
+    background-color: lightcoral;
+    text-align: center;
+} 
+h2{
+    border: 5px solid;
+    background-color: lightcoral;
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+footer {
+    border-top: solid black;
+    border-style: solid;
+    text-align: center;
+    
+}
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
